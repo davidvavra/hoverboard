@@ -103,7 +103,7 @@
 
       @media (min-width: 961px) {
         :host {
-          padding: 100px 0;
+          padding: 0px 0;
         }
 
         .additional-space {
@@ -114,6 +114,8 @@
     </style>
 
     <template is="dom-if" if="[[selected]]">
+        <iframe src="https://www.google.com/maps/d/embed?mid=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ" width="100%" height="700"></iframe>
+      <!--
       <google-map
         zoom="{$ location.pointer.zoom $}"
         latitude="{$ location.mapCenter.latitude $}"
@@ -127,8 +129,9 @@
           longitude="{$ location.pointer.longitude $}"
         ></google-map-marker>
       </google-map>
+      -->
     </template>
-    >
+    <!--
     <div class="disable-map-events"></div>
     <div class="container">
       <div class="additional-space"></div>
@@ -164,7 +167,7 @@
           </div>
         </paper-card>
       </div>
-    </div>
+    </div>-->
 
   </template>
 
