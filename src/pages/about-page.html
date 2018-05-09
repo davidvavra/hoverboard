@@ -13,7 +13,7 @@
 <link rel="import" href="../behaviors/cascaded-behavior.html">
 
 
-<dom-module id="cod-page">
+<dom-module id="about-page">
 
   <template>
 
@@ -52,7 +52,12 @@
       </div>
     </div>
 
+    <photo-block app="{{app}}" cascaded></photo-block>
+
+    <!--
     <footer-block app="{{app}}" cascaded></footer-block>
+
+    -->
 
   </template>
 
@@ -62,7 +67,7 @@
 
       Polymer({
 
-        is: 'cod-page',
+        is: 'about-page',
 
         behaviors: [
           HOVERBOARD.PageBehavior,
@@ -72,7 +77,7 @@
         properties: {
           source: {
             type: String,
-            value: 'data/posts/code-of-conduct.markdown'
+            value: 'data/posts/about.markdown'
           }
         }
 

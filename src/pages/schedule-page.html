@@ -67,12 +67,14 @@
     </app-indexeddb-mirror>
 
     <div class="container" phone$="{{app.isPhoneSize}}">
+
+      <!--
       <schedule-subnav
         app="{{app}}"
         schedule="[[schedule]]"
         selected-day="[[app.selectedDay]]"
         filters="{{filters}}"
-      ></schedule-subnav>
+      ></schedule-subnav>-->
 
       <neon-animated-pages selected="[[app.selectedDay]]" attr-for-selected="name">
         <template is="dom-repeat" items="[[schedule]]" as="day" on-dom-change="updateCascadedNodes">
