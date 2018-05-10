@@ -87,7 +87,7 @@
 
       @media (min-width: 601px) {
         .main-content {
-          padding-top: 424px;
+          padding-top: 200px;
         }
       }
     </style>
@@ -266,7 +266,7 @@
 
         ready: function () {
           Polymer.RenderStatus.afterNextRender(this, function () {
-            HOVERBOARD.ServiceWorkerRegistration.register();
+            //HOVERBOARD.ServiceWorkerRegistration.register();
             this.importHref(this.resolveUrl('pages/schedule-page.html'), null, null, true);
             this.importHref(this.resolveUrl('pages/speakers-page.html'), null, null, true);
             this.importHref(this.resolveUrl('pages/blog-page.html'), null, null, true);

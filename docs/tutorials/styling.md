@@ -23,7 +23,7 @@ Now Replace next section
 
 /* Text colors */
 --primary-text-color:       #212121;
---secondary-text-color:     #727272;
+--secondary-text-color:     #e0e0e0;
 --disabled-text-color:      #BDBDBD;
 
 /* Other colors */
