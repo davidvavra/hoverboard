@@ -28,6 +28,9 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
+  "tickets": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdbxmrXbRi36ecU4XsamYie2bFquFw-GankxrnCPdJTNU0lTA/viewform?usp=sf_link"
+  },
   "dateFormat": {
     "locale": "cs-CZ",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
@@ -99,12 +102,14 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://photos.app.goo.gl/1rXhm7pKqCEFsvJP2",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/0.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/1.jpg",
+        "/images/backgrounds/2.jpg",
+        "/images/backgrounds/3.jpg",
+        "/images/backgrounds/4.jpg"
       ]
     }
   },
