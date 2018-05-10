@@ -1,0 +1,43 @@
+[ {
+  "date" : "2018-09-08",
+  "dateReadable" : "8. září",
+  "timeslots" : [ {
+    "endTime" : "11:00",
+    "sessions" : [ [ 1 ] ],
+    "startTime" : "10:30"
+  }, {
+    "endTime" : "12:00",
+    "sessions" : [ [ 2 ] ],
+    "startTime" : "11:00"
+  }, {
+    "endTime" : "13:30",
+    "sessions" : [ [ 3 ] ],
+    "startTime" : "12:30"
+  }, {
+    "endTime" : "15:00",
+    "sessions" : [ [ 4 ] ],
+    "startTime" : "14:30"
+  }, {
+    "endTime" : "16:30",
+    "sessions" : [ [ 5 ] ],
+    "startTime" : "15:00"
+  }, {
+    "endTime" : "18:00",
+    "sessions" : [ [ 6 ] ],
+    "startTime" : "17:00"
+  }, {
+    "endTime" : "19:00",
+    "sessions" : [ [ 7 ] ],
+    "startTime" : "18:00"
+  }, {
+    "endTime" : "22:00",
+    "sessions" : [ [ 8 ] ],
+    "startTime" : "19:00"
+  }
+ ],
+  "tracks" : [ {
+    "title" : "Zámeček, Řevnice"
+  }, {
+    "title" : "U Krobiána, Hostím"
+  } ]
+} ]

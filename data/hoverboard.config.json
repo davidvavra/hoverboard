@@ -55,6 +55,10 @@
       "permalink": "/schedule/"
     },
     {
+      "route": "practicalities",
+      "permalink" : "/practicalities"
+    },
+    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -133,6 +137,14 @@
         "tabBarColor": "#fff"
       }
     },
+    "practicalities": {
+      "title": "Praktické",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
     "blog": {
       "title": "Blog",
       "headerSettings": {
@@ -158,7 +170,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Kontakty",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
