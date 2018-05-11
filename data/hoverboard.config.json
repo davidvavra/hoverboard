@@ -121,7 +121,7 @@
     "home": {
       "title": "Kdy a kde",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#673ab7",
         "backgroundImage": "/images/backgrounds/home1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
@@ -145,22 +145,6 @@
         "tabBarColor": "#fff"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "speakers": {
-      "title": "Speakers",
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "schedule": {
       "title": "Harmonogram",
       "headerSettings": {
@@ -171,14 +155,6 @@
     },
     "team": {
       "title": "Kontakty",
-      "headerSettings": {
-        "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "cod": {
-      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

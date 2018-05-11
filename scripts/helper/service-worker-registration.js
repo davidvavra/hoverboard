@@ -28,6 +28,9 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
       isAlreadyRegistered = true;
 
       if ('serviceWorker' in navigator) {
+        /*
+        Disable service worker here.
+        
         navigator.serviceWorker.register(URL, {
           scope: SCOPE
         }).then(function (registration) {
@@ -40,8 +43,8 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
               switch (installingWorker.state) {
                 case 'installed':
                   if (!navigator.serviceWorker.controller) {
-                    /*HOVERBOARD.Elements.Template.$.toast.showMessage(
-                      'Caching complete! Future visits will work offline.');*/
+                  //  HOVERBOARD.Elements.Template.$.toast.showMessage(
+                  //    'Caching complete! Future visits will work offline.');
                   }
                   break;
 
@@ -53,7 +56,7 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
         }).catch(function (e) {
           HOVERBOARD.Analytics.trackError('navigator.serviceWorker.register() error', e);
           console.error('Service worker registration failed:', e);
-        });
+        });*/
       }
     }
   };
