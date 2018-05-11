@@ -192,17 +192,6 @@
     </style>
 
     <div class="container">
-      <div class="details">
-        <div class="details-item" cascaded>
-          <iron-icon class="details-icon" icon="info"></iron-icon>
-          <div class="details-info">
-            <h4 class="details-title">{$ teamPageTitle $}</h4>
-            <marked-element class="details-text" markdown="{$ teamPageText $}">
-              <div class="markdown-html"></div>
-            </marked-element>
-          </div>
-        </div>
-      </div>
 
       <template is="dom-repeat" items="[[app.team]]" as="team">
         <div class="team-block">
@@ -235,8 +224,6 @@
       </template>
 
     </div>
-
-    <footer-block app="{{app}}" cascaded></footer-block>
 
   </template>
 

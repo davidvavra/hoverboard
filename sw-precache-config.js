@@ -10,5 +10,5 @@ module.exports = {
   ],
   navigateFallback: '/index.html',
   directoryIndex: 'index.html',
-  navigateFallbackWhitelist: [ /^\/[^\_]+\// ]
+  navigateFallbackWhitelist: [/^(?!\/__)/]
 };

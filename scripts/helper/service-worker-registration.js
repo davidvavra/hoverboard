@@ -40,8 +40,8 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
               switch (installingWorker.state) {
                 case 'installed':
                   if (!navigator.serviceWorker.controller) {
-                    HOVERBOARD.Elements.Template.$.toast.showMessage(
-                      'Caching complete! Future visits will work offline.');
+                    /*HOVERBOARD.Elements.Template.$.toast.showMessage(
+                      'Caching complete! Future visits will work offline.');*/
                   }
                   break;
 
@@ -72,7 +72,7 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
         if (HOVERBOARD.Elements && HOVERBOARD.Elements.Template &&
           HOVERBOARD.Elements.Template.$.toast.showMessage) {
           HOVERBOARD.Elements.Template.$.toast.showMessage(
-            'A new version of this app is available.', tapHandler, 'Refresh',
+            'Je k dispozici nová verze webu.', tapHandler, 'Obnovit',
             null, 0); // duration 0 indications shows the toast indefinitely.
         } else {
           tapHandler(); // Force reload if user never was shown the toast.

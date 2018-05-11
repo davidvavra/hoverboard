@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "WeddingCon",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#673AB7",
+    "backgroundColor": "#673AB7"
   },
   "firebase": {
     "name": "david-bara-wedding",
