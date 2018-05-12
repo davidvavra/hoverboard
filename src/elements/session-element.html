@@ -21,8 +21,9 @@
       }
 
       .session {
+        /*
         @apply(--shadow-transition);
-        cursor: pointer;
+        cursor: default;*/
         color: var(--primary-text-color);
       }
 
@@ -35,7 +36,7 @@
       }
 
       .session:hover {
-        @apply(--shadow-elevation-4dp);
+        /*@apply(--shadow-elevation-4dp);*/
       }
 
       .session-content {
@@ -163,7 +164,6 @@
 
     <a
       class="session"
-      href$="/schedule/[[dayName]]?sessionId=[[session.id]]"
       with-background$="[[session.image]]"
       wide$="{{!app.isPhoneSize}}"
       layout flex-auto
@@ -209,6 +209,7 @@
               </div>
             </div>
 
+            <!--
             <iron-icon
               class$="action-icon [[myScheduleIcon]]"
               icon$="[[myScheduleIcon]]"
@@ -216,6 +217,7 @@
               session-id$="[[session.id]]"
               disabled$="[[!online]]"
             ></iron-icon>
+            -->
           </div>
 
           <div

@@ -1,0 +1,60 @@
+[ {
+  "members" : [ {
+    "name" : "David Vávra",
+    "photoUrl" : "/images/people/david-vavra.jpg",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/vavradav",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/vavradav",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+DavidVávra",
+      "name" : "Google+"
+    }, {
+      "icon" : "website",
+      "link" : "http://david.vavra.me",
+      "name" : "Blog"
+    } ],
+    "title" : "david@vavra.me"
+  }, {
+    "name" : "Bára Drbohlavová",
+    "photoUrl" : "/images/people/bara-drbohlavova.jpg",
+    "socials" : [ 
+      {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/baradrb",
+        "name" : "Facebook"
+      }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/baradrb",
+      "name" : "Twitter"
+      } ],
+    "title" : "bara@drbohlavova.me"
+  }],
+  "title" : "Ženich & nevěsta"
+}, {
+  "members" : [ {
+    "name" : "Jirka Čadek",
+    "photoUrl" : "/images/people/jirka-cadek.jpg",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/cadek.jiri",
+      "name" : "Facebook"
+    } ],
+    "title" : "cadek.jiri@gmail.com"
+  }, {
+    "name" : "Káča Pscherová",
+    "photoUrl" : "/images/people/kaca-psch.jpg",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/katerina.pscherova",
+      "name" : "Facebook"
+    } ],
+    "title" : "katerina.pscherova@cnb.cz"
+  } ],
+  "title" : "Svědek & svědkyně"
+} ]

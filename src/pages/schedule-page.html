@@ -85,24 +85,8 @@
             filters="[[filters]]"
           ></schedule-day>
         </template>
-        <template is="dom-if" if="{{app.user}}">
-          <my-schedule
-            name="myschedule"
-            app="{{app}}"
-            schedule="[[schedule]]"
-          ></my-schedule>
-        </template>
       </neon-animated-pages>
     </div>
-
-    <session-details
-      id="sessionDetails"
-      app="{{app}}"
-      session="[[_selectedSession]]"
-      entry-animation="scale-up-animation"
-      exit-animation="fade-out-animation"
-      with-backdrop
-    ></session-details>
 
   </template>
 
@@ -144,10 +128,7 @@
         },
 
         observers: [
-          '_routePageChanged(routeData.day)',
-          '_userChanged(app.user)',
-          '_queryParamsChanged(queryParams, sessions)',
-          '_filtersChanged(filters.splices)'
+          '_routePageChanged(routeData.day)'
         ],
 
         listeners: {

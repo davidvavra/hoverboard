@@ -31,6 +31,7 @@
         @apply(--layout-horizontal);
         margin: 0 auto;
         padding-bottom: 32px;
+        min-height: 500px;
       }
 
       @media (min-width: 1600px) {
@@ -49,10 +50,9 @@
             <div class="markdown-html"></div>
           </marked-element>
         </div>
+        <photo-block app="{{app}}" cascaded></photo-block>
       </div>
     </div>
-
-    <photo-block app="{{app}}" cascaded></photo-block>
 
     <!--
     <footer-block app="{{app}}" cascaded></footer-block>

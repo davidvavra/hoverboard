@@ -1,52 +1,50 @@
-{
-  "1" : {
-    "id" : 1,
-    "title" : "Sraz před Zámečkem"
-  },
-  "2" : {
-    "id" : 2,
-    "title" : "Obřad"
-  },
-  "3" : {
-    "id" : 3,
-    "title" : "Oběd pro nejbližší rodinu + boršč v sále",
-    "track": {
-      "title": "U Krobiána, Hostím"
-    }
-  },
-  "4" : {
-    "id" : 4,
-    "title" : "Krájení dortu",
-    "track": {
-      "title": "U Krobiána, Hostím"
-    }
-  },
-  "5" : {
-    "id" : 5,
-    "title" : "Řekl někdo únos?",
-    "track": {
-      "title": "Snad blízko :)"
-    }
-  },
-  "6" : {
-    "id" : 6,
-    "title" : "Začátek grilování",
-    "track": {
-      "title": "U Krobiána, Hostím"
-    }
-  },
-  "7" : {
-    "id" : 7,
-    "title" : "První tanec",
-    "track": {
-      "title": "U Krobiána, Hostím"
-    }
-  },
-  "8" : {
-    "id" : 8,
-    "title" : "Kapela",
-    "track": {
-      "title": "U Krobiána, Hostím"
-    }
+[ null, {
+  "id" : 1,
+  "title" : "Sraz před Zámečkem"
+}, {
+  "id" : 2,
+  "image" : "/images/backgrounds/obrad.jpg",
+  "title" : "Obřad"
+}, {
+  "id" : 3,
+  "image" : "/images/backgrounds/obed.jpg",
+  "title" : "Oběd pro nejbližší rodinu + boršč v sále",
+  "track" : {
+    "title" : "U Krobiána, Hostím"
   }
-}
+}, {
+  "id" : 4,
+  "image" : "/images/backgrounds/dort.jpg",
+  "title" : "Krájení dortu",
+  "track" : {
+    "title" : "U Krobiána, Hostím"
+  }
+}, {
+  "id" : 5,
+  "image" : "/images/backgrounds/unos.jpg",
+  "title" : "Řekl někdo únos?",
+  "track" : {
+    "title" : "Snad blízko :)"
+  }
+}, {
+  "id" : 6,
+  "image" : "/images/backgrounds/grilovani.jpg",
+  "title" : "Začátek grilování",
+  "track" : {
+    "title" : "U Krobiána, Hostím"
+  }
+}, {
+  "id" : 7,
+  "image" : "/images/backgrounds/tanec.jpg",
+  "title" : "První tanec",
+  "track" : {
+    "title" : "U Krobiána, Hostím"
+  }
+}, {
+  "id" : 8,
+  "image" : "/images/backgrounds/kapela.jpg",
+  "title" : "Kapela",
+  "track" : {
+    "title" : "U Krobiána, Hostím"
+  }
+} ]
