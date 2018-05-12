@@ -171,6 +171,12 @@
       _generateSchedule: function () {
         var myWorker = new Worker('./scripts/helper/schedule-webworker.js');
 
+        if (this._lastWorker !== undefined && this._lastWorker !== null) {
+          this._lastWorker.terminate();
+        }
+
+        this._lastWorker = myWorker;
+
         myWorker.postMessage({
           speakers: this._speakersRaw,
           sessions: this._sessionsRaw,
@@ -182,6 +188,7 @@
           this.set('sessions', e.data.sessions);
           this.set('speakers', e.data.speakers);
           myWorker.terminate();
+          this._lastWorker = undefined;
         }.bind(this), false);
 
       },
