@@ -6,7 +6,6 @@ cache:
   - bower_components
   - "${NVM_PATH}_modules"
 env:
-  matrix:
 - CXX=g++-4.8
 addons:
   apt:
