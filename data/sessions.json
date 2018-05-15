@@ -1,6 +1,7 @@
 [ null, {
   "id" : 1,
-  "title" : "Sraz před Zámečkem"
+  "image": "/images/backgrounds/dobrichovice.jpg",
+  "title" : "Sraz před zámkem"
 }, {
   "id" : 2,
   "image" : "/images/backgrounds/obrad.jpg",
