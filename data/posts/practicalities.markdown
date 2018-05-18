@@ -19,10 +19,10 @@ Na obřad si vemte něco formálnějšího, ale nemusíte se pařit v saku, koš
 
 Naše oblíbená barva je fialová, tak s námi budete lépe ladit nějakým fialovým doplňkem. Není to ale vůbec potřeba :)
 
-# Papání
+# Strava
 
-Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných a oběd pro ostatní desítky hostů. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :)
-Dort pak nakrájíme všichni společně v sále.
+Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných a oběd pro ostatní. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :) Dort pak nakrájíme všichni společně v sále.
+Zbytek dne se bude grilovat, a to jak maso, tak nemaso.
 
 # Dary
 
