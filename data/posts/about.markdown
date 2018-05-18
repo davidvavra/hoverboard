@@ -6,7 +6,7 @@ Náš WeddingCon bude tradičně netradiční – máme rádi tradice, ale každ
 
 # Jak jsme se poznali?
 
-Naše seznámení bylo hodně neobvyklé, skoro jako z indického filmu. Bára má rodinnou známou („tetičku“), která ráda dává lidi dohromady. Jednou šla v Černošicích do lékárny, kde se zapovídala s Davidovým tátou. Padla řeč na to, že má svobodného syna. Tetička povídala tak dlouho, až táta souhlasil s předáním kontaktu. Najednou Davidovi píše neznámá holka z Černošic. David jí odepsal, že ji nezná, a tím to skončilo. Bára si stěžovala tetičce, ta zašla znovu do lékárny. Táta se omlouval hned, jak ji viděl, a nakonec Davidovi zavolal. Oba souhlasili se schůzkou jenom „aby byl klid“. Ale na schůzce v Café Alternatif si proti všem očekáváním padli do oka.
+Naše seznámení bylo hodně neobvyklé, skoro jako z indického filmu. Bára má rodinnou známou („tetičku“), která ráda dává lidi dohromady. Jednou šla v Černošicích do lékárny, kde se zapovídala s Davidovým tátou. Padla řeč na to, že má svobodného syna. Tetička povídala tak dlouho, až táta souhlasil s předáním kontaktu. Najednou Davidovi píše neznámá holka z Černošic. David jí odepsal, že ji nezná, a tím to skončilo. Bára si stěžovala tetičce, ta zašla znovu do lékárny. Táta se omlouval hned, jak ji viděl, a nakonec Davidovi zavolal. Bára i David se schůzkou souhlasili jenom „aby byl klid“. Ale na schůzce v Café Alternatif si proti všem očekáváním padli do oka.
 
 # Jak jsme do toho praštili?
 
