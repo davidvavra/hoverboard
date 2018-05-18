@@ -6,7 +6,7 @@ Do Dobřichovic se dopravíte:
 
 Do Hostími se dostanete:
  - vlakem do Srbska: 40 minut z Prahy, z nádraží je to krásná procházka Českým krasem (3,5 km), vyznačeno [na mapě](https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing). Budeme mít také zajištěno jedno auto, které bude pendlovat mezi Hostímí a Srbskem (do noci),
- - autobusem: 50 min z Prahy, ale jenom párkrát za den,
+ - autobusem: 40 min z Prahy, ale jenom [párkrát za den](https://mapy.cz/zakladni?x=14.2905668&y=50.0545102&z=17&timeboard=%7B%22l%22%3A%22100384%22%2C%22d%22%3A-1%2C%22i%22%3A1%2C%22v%22%3A%7B%22from%22%3A%222018-05-18T00%3A00%3A00%22%2C%22to%22%3A%222018-08-16T00%3A00%3A00%22%7D%7D&source=pubt&id=15305993),
  - autem: trasa z Dobřichovic vyznačená [na mapě](https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing]), parkujte před hospodou U Krobiána.
 
 # Ubytování
@@ -21,7 +21,7 @@ Naše oblíbená barva je fialová, tak s námi budete lépe ladit nějakým fia
 
 # Papání
 
-Před obřadem dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na menší hostinu pro nejbližších 20 příbuzných (je to dáno velikostí místnosti v restauraci) a větší oběd pro ostatní desítky hostů. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :)
+Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných a oběd pro ostatní desítky hostů. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :)
 Dort pak nakrájíme všichni společně v sále.
 
 # Dary
