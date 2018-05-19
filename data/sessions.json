@@ -9,7 +9,7 @@
 }, {
   "id" : 3,
   "image" : "/images/backgrounds/obed.jpg",
-  "title" : "Oběd pro nejbližší rodinu + boršč v sále",
+  "title" : "Oběd pro nejbližší rodinu v restauraci + ostatní v sále",
   "track" : {
     "title" : "U Krobiána, Hostím"
   }
@@ -30,7 +30,7 @@
 }, {
   "id" : 6,
   "image" : "/images/backgrounds/grilovani.jpg",
-  "title" : "Začátek grilování",
+  "title" : "Večeře z grilu",
   "track" : {
     "title" : "U Krobiána, Hostím"
   }

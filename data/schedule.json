@@ -14,25 +14,25 @@
     "sessions" : [ [ 3 ] ],
     "startTime" : "12:30"
   }, {
-    "endTime" : "15:00",
+    "endTime" : "15:30",
     "sessions" : [ [ 4 ] ],
-    "startTime" : "14:30"
-  }, {
-    "endTime" : "16:30",
-    "sessions" : [ [ 5 ] ],
     "startTime" : "15:00"
   }, {
-    "endTime" : "18:00",
-    "sessions" : [ [ 6 ] ],
-    "startTime" : "17:00"
+    "endTime" : "17:00",
+    "sessions" : [ [ 5 ] ],
+    "startTime" : "15:30"
   }, {
     "endTime" : "19:00",
-    "sessions" : [ [ 7 ] ],
+    "sessions" : [ [ 6 ] ],
     "startTime" : "18:00"
+  }, {
+    "endTime" : "20:00",
+    "sessions" : [ [ 7 ] ],
+    "startTime" : "19:00"
   }, {
     "endTime" : "22:00",
     "sessions" : [ [ 8 ] ],
-    "startTime" : "19:00"
+    "startTime" : "20:00"
   }
  ],
   "tracks" : [ {
