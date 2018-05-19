@@ -64,6 +64,7 @@
         @apply(--layout-center-center);
         height: 100%;
         text-transform: uppercase;
+        text-decoration: none;
       }
 
       .action-button-wrapper {
@@ -129,6 +130,10 @@
         font-size: 14px;
         cursor: pointer;
       }
+
+      .registration-link {
+        text-decoration: none;
+      }
     </style>
 
     <app-toolbar id="mainToolbar">
@@ -188,7 +193,7 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          <a href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" class="registration-link" on-tap="_trackBuyClick">
             <paper-button class="action-button">{$ buyTicket $}</paper-button>
           </a>
         </div>
