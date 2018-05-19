@@ -21,12 +21,12 @@ Naše oblíbená barva je fialová, tak s námi budete lépe ladit nějakým fia
 
 # Strava
 
-Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných a oběd pro ostatní. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :) Dort pak nakrájíme všichni společně v sále.
+Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných v restauraci a oběd pro ostatní v sále. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :) Dort pak nakrájíme všichni společně v sále.
 Zbytek dne se bude grilovat, a to jak maso, tak nemaso.
 
 # Dary
 
-Už spolu bydlíme dlouho, tak nám nic extra nechybí. Plánujeme ale větší investice do bydlení, tak budeme nejradši za finanční dary. Bereme všechny měny včetně kryptoměn :)
+Už spolu bydlíme dlouho, tak nám skoro nic nechybí. Rádi bychom se na svatební cestu vydali někam daleko, tak budeme nejraději za finanční dary. Bereme všechny měny včetně kryptoměn :)
 
 # Děti
 
