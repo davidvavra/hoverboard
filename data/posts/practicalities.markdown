@@ -30,4 +30,4 @@ Už spolu bydlíme dlouho, tak nám skoro nic nechybí. Rádi bychom se na svate
 
 # Děti
 
-Děti jsou na naší svatbě vítány, ale chtěli bychom mít během obřadu úplné ticho, abychom se na ten moment mohli soustředit. Prosíme, abyste nechali všechny malé děti, které by mohly vydávat nějaké zvuky, před obřadní síní. Pokusíme se tam na těch pár minut sehnat hlídání.
+Děti jsou na naší svatbě vítány, ale chtěli bychom mít během obřadu úplné ticho, abychom se na ten moment mohli soustředit. Prosíme, abyste nechali všechny malé děti, které by mohly brečet, před obřadní síní. Bude je tam hlídat Hanka Kalinová.
