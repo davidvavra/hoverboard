@@ -19,7 +19,7 @@
       "link" : "http://david.vavra.me",
       "name" : "Blog"
     } ],
-    "title" : "david@vavra.me"
+    "email" : "david@vavra.me"
   }, {
     "name" : "Bára Drbohlavová",
     "photoUrl" : "/images/people/bara-drbohlavova.jpg",
@@ -33,7 +33,7 @@
       "link" : "https://twitter.com/baradrb",
       "name" : "Twitter"
       } ],
-    "title" : "bara@drbohlavova.me"
+    "email" : "bara@drbohlavova.me"
   }],
   "title" : "Ženich & nevěsta"
 }, {
@@ -45,7 +45,7 @@
       "link" : "https://www.facebook.com/cadek.jiri",
       "name" : "Facebook"
     } ],
-    "title" : "cadek.jiri@gmail.com"
+    "email" : "cadek.jiri@gmail.com"
   }, {
     "name" : "Káča Pscherová",
     "photoUrl" : "/images/people/kaca-psch.jpg",
@@ -54,7 +54,7 @@
       "link" : "https://www.facebook.com/katerina.pscherova",
       "name" : "Facebook"
     } ],
-    "title" : "katerina.pscherova@cnb.cz"
+    "email" : "katerina.pscherova@cnb.cz"
   } ],
   "title" : "Svědek & svědkyně"
 }, {
@@ -66,7 +66,7 @@
       "link" : "https://www.facebook.com/fingerova.iva",
       "name" : "Facebook"
     } ],
-    "title" : "Manažerka Bářiny rozlučky<br />fingerova.iva@gmail.com"
+    "title" : "Manažerka Bářiny rozlučky"
   }],
   "title" : "Dobrovolníci"
 } ]

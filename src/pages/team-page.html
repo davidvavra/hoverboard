@@ -207,9 +207,10 @@
                   <div class="card-content">
                     <div class="name">[[member.name]]</div>
                     <div class="title">
-                        {% if member.title.contains("@") %}
-                        <a href="mailto:[[member.title]]">[[member.title]]</a>
-                        {% else %}
+                        {% if member.email %}
+                        <a href="mailto:[[member.email]]">[[member.email]]</a>
+                        {% endif %}
+                        {% if member.title %}
                         [[member.title]]
                         {% endif %}
                     </div>
