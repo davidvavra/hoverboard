@@ -67,6 +67,25 @@
       "name" : "Facebook"
     } ],
     "title" : "Manažerka Bářiny rozlučky"
-  }],
+  }, {
+      "name" : "Radovan Paška",
+      "photoUrl" : "/images/people/carnero.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/radovan.praha",
+        "name" : "Facebook"
+      } ],
+      "title" : "Fotograf"
+  }, {
+    "name" : "Hanka Kalinová",
+    "photoUrl" : "/images/people/hanka.jpg",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/hana.kalinova.1",
+      "name" : "Facebook"
+    } ],
+    "title" : "Hlídání dětí"
+}
+  ],
   "title" : "Dobrovolníci"
 } ]
