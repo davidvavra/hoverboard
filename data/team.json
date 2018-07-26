@@ -85,6 +85,15 @@
       "name" : "Facebook"
     } ],
     "title" : "Hlídání dětí během obřadu"
+}, {
+  "name" : "Pavel Kácha",
+  "photoUrl" : "/images/people/pavel-kacha.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/integerCZ",
+    "name" : "Facebook"
+  } ],
+  "title" : "Chačapuri"
 }
   ],
   "title" : "Pomocníci"
