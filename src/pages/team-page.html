@@ -206,7 +206,13 @@
                   </div>
                   <div class="card-content">
                     <div class="name">[[member.name]]</div>
-                    <div class="title"><a href="mailto:[[member.title]]">[[member.title]]</a></div>
+                    <div class="title">
+                        {% if member.title.contains("@") %}
+                        <a href="mailto:[[member.title]]">[[member.title]]</a>
+                        {% else %}
+                        [[member.title]]
+                        {% endif %}
+                    </div>
                   </div>
                   <div class="card-actions">
                     <template is="dom-repeat" items="[[member.socials]]" as="social">
