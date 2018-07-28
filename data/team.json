@@ -94,6 +94,24 @@
     "name" : "Facebook"
   } ],
   "title" : "Chačapuri"
+}, {
+  "name" : "Lukáš Barták",
+  "photoUrl" : "/images/people/lukas-bartak.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/lukas.bartak",
+    "name" : "Facebook"
+  } ],
+  "title" : "Pouštění hudby"
+}, {
+  "name" : "Eliška Váňová",
+  "photoUrl" : "/images/people/eliska-vanova.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/eliska.vanova.7",
+    "name" : "Facebook"
+  } ],
+  "title" : "Design tisků"
 }
   ],
   "title" : "Pomocníci"
