@@ -121,6 +121,15 @@
     "name" : "Facebook"
   } ],
   "title" : "Registrace a koordinace dopoledne"
+}, {
+  "name" : "Lukáš Váňa",
+  "photoUrl" : "/images/people/lukas-vana.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/fabiancz",
+    "name" : "Facebook"
+  } ],
+  "title" : "Foto z dronu"
 }
   ],
   "title" : "Pomocníci"
