@@ -112,6 +112,15 @@
     "name" : "Facebook"
   } ],
   "title" : "Design tisků"
+}, {
+  "name" : "Lucka Durcová",
+  "photoUrl" : "/images/people/lucie-durcova.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/durcova.lucie",
+    "name" : "Facebook"
+  } ],
+  "title" : "Registrace a koordinace dopoledne"
 }
   ],
   "title" : "Pomocníci"
