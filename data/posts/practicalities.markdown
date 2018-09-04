@@ -2,16 +2,16 @@
 
 Do Dobřichovic se dopravíte:
  - vlakem: Je to 20 min z Prahy, cesta z nádraží (1 km) vyznačena <a href="https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing" target="_blank">na mapě</a>,
- - autem: Parkujte prosím <a href="https://www.google.com/maps/@49.9265943,14.2752967,3a,75y,237.21h,82.98t/data=!3m7!1e1!3m5!1soLjz43xmoga19bxuKs3q3A!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DoLjz43xmoga19bxuKs3q3A%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D236.34343%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656" target="_blank">zde</a>. 
+ - autem: Parkujte prosím <a href="https://en.mapy.cz/s/31fN2" target="_blank">na Křižovnickém náměstí</a> a pokud bude plno, v ulici <a href="https://en.mapy.cz/s/31fNA" target="_blank">5. května</a>.
 
 Do Hostími se dostanete:
- - vlakem do Srbska: 40 minut z Prahy, z nádraží je to krásná procházka Českým krasem (3,5 km), vyznačeno <a href="https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing" target="_blank">na mapě</a>. Budeme mít také zajištěno jedno auto, které bude pendlovat mezi Hostímí a Srbskem (do noci),
+ - vlakem do Srbska: 40 minut z Prahy, z nádraží je to krásná procházka Českým krasem (3,5 km), vyznačeno <a href="https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing" target="_blank">na mapě</a>. Máme také zajištěno jedno auto, které bude pendlovat mezi Hostímí a Srbskem (do noci).
  - autobusem: 40 min z Prahy, ale jenom párkrát za den (linka 384 ze Zličína),
  - autem: trasa z Dobřichovic vyznačená <a href="https://drive.google.com/open?id=1JaI7MwUYkx4QFXDBjTwGt7zRSitqprZQ&usp=sharing" target="_blank">na mapě</a>, parkujte před hospodou U Krobiána.
 
 # Ubytování
 
-V Hostími můžete přespat, možností je víc. Seznam možností je v <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbxmrXbRi36ecU4XsamYie2bFquFw-GankxrnCPdJTNU0lTA/viewform?usp=sf_link" target="_blank">registraci</a>. Vyplňte prosím registraci, ať můžeme pokoje zarezervovat.
+V Hostími můžete přespat, máte zarezervované ubytování podle registrace. Přesné místo najdete na <a href="/images/accomodation-map.png" target="_blank">mapce ubytování</a>. Kdyby někdo na poslední chvíli chtěl v Hostími přespat, tak jsou ještě místa U Jezinky na půdě ve spacáku.
 
 # Co na sebe?
 
@@ -21,7 +21,7 @@ Naše oblíbená barva je fialová, tak s námi budete lépe ladit nějakým fia
 
 # Strava
 
-Před obřadem od nás dostanete nějakou tu jednohubku, ale radši si dejte doma i snídani. Oběd bude rozdělen na oběd pro nejbližších 20 příbuzných v restauraci a oběd pro ostatní v sále. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :) Dort pak nakrájíme všichni společně v sále.
+Před obřadem bude slané i sladké občerstvení. Oběd bude rozdělen na oběd pro nejbližších 28 příbuzných v restauraci a oběd pro ostatní v sále. Snad nám nebudete vyčítat, že neuvidíte, jak se pobryndáme polévkou :) Dort pak nakrájíme všichni společně v sále.
 Zbytek dne se bude grilovat, a to jak maso, tak nemaso.
 
 # Dary
