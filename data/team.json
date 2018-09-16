@@ -93,7 +93,7 @@
     "link" : "https://www.facebook.com/integerCZ",
     "name" : "Facebook"
   } ],
-  "title" : "Chačapuri"
+  "title" : "Ranní občerstvení"
 }, {
   "name" : "Lukáš Barták",
   "photoUrl" : "/images/people/lukas-bartak.jpg",
@@ -102,7 +102,7 @@
     "link" : "https://www.facebook.com/lukas.bartak",
     "name" : "Facebook"
   } ],
-  "title" : "Hudební doprovod & DJ"
+  "title" : "DJ Antonín"
 }, {
   "name" : "Eliška Váňová",
   "photoUrl" : "/images/people/eliska-vanova.jpg",
@@ -130,6 +130,37 @@
     "name" : "Facebook"
   } ],
   "title" : "Foto z dronu"
+}, {
+  "name" : "Dáša Váňová",
+  "photoUrl" : "/images/people/dasa-vanova.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/profile.php?id=100007718025707",
+    "name" : "Facebook"
+  } ],
+  "title" : "Sekt"
+}, {
+  "name" : "Alena Heiderová",
+  "photoUrl" : "/images/people/alena-heiderova.jpg",
+  "title" : "Dort & koláče"
+}, {
+  "name" : "Petr Vávra",
+  "photoUrl" : "/images/people/petr-vavra.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/petr.vavra.718",
+    "name" : "Facebook"
+  } ],
+  "title" : "Víno"
+}, {
+  "name" : "Lada Vávrová",
+  "photoUrl" : "/images/people/lada-vavrova.jpg",
+  "socials" : [ {
+    "icon" : "facebook",
+    "link" : "https://www.facebook.com/profile.php?id=100013003986826",
+    "name" : "Facebook"
+  } ],
+  "title" : "Oběd na sále"
 }
   ],
   "title" : "Pomocníci"
